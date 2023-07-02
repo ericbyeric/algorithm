@@ -1,7 +1,7 @@
 # daily_algorithm
 
 ## Leetcode
-### [Day 001 - 22. Generate Parentheses](https://github.com/ericbyeric/daily_algorithm/blob/main/daily_algo/src/main/java/leetcode/GenerateParentheses.java)
+### [Day 1 - 22. Generate Parentheses](https://github.com/ericbyeric/daily_algorithm/blob/main/daily_algo/src/main/java/leetcode/GenerateParentheses.java)
 
 ```java
 class Solution {
