@@ -7,9 +7,9 @@ public class MinimumAbsolutDifferenceInBST {
     // inorder : left self right
     // postorder : left right self
     // 이진검색트리 성질 -> inorder -> 오름차순 정렬이 됨!
-    boolean init;
-    int prev;
-    int min;
+    static boolean init;
+    static int prev;
+    static int min;
     public static int getMinimumDifference(TreeNode root){
         init = false;
         int min = Integer.MAX_VALUE;
@@ -17,7 +17,7 @@ public class MinimumAbsolutDifferenceInBST {
         return min;
     }
 
-    public void inorder(TreeNode root){
+    public static void inorder(TreeNode root){
         // 예외 처리
         if(root==null) return;
 
