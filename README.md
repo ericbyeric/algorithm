@@ -1,7 +1,8 @@
 # daily_algorithm
 
 ## Leetcode
-### [Day 1 - 22. Generate Parentheses](https://github.com/ericbyeric/daily_algorithm/blob/main/daily_algo/src/main/java/leetcode/GenerateParentheses.java)
+### Day 1
+#### [22. Generate Parentheses](https://github.com/ericbyeric/daily_algorithm/blob/main/daily_algo/src/main/java/leetcode/GenerateParentheses.java)
 
 ```java
 class Solution {
@@ -31,7 +32,8 @@ class Solution {
 }
 ```
 
-### [Day 2 - 530. Minimum Absolute Difference in BST](https://github.com/ericbyeric/daily_algorithm/blob/main/daily_algo/src/main/java/leetcode/day002/MinimumAbsolutDifferenceInBST.java)
+### Day 2
+#### [530. Minimum Absolute Difference in BST](https://github.com/ericbyeric/daily_algorithm/blob/main/daily_algo/src/main/java/leetcode/day002/MinimumAbsolutDifferenceInBST.java)
 - implementation video : [youtube](https://www.youtube.com/watch?v=utCGIXhbYBU&t=13s&ab_channel=%EA%B3%84%ED%94%BC%EC%B8%84%EB%A1%9C%EC%8A%A4cinnamonchurros)
 ```java
 public class MinimumAbsolutDifferenceInBST {
