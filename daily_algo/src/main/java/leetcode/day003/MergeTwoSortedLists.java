@@ -5,7 +5,7 @@ public class MergeTwoSortedLists {
         ListNode ret = null;
         ListNode cur = null;
 
-        while(l1 != nul l || l2 != null){
+        while(l1 != null || l2 != null){
             if(l2==null || (l1 !=null && l1.val < l2.val)){
                 // pick from l1
                 if(ret == null){
