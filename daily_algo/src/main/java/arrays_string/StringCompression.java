@@ -1,4 +1,4 @@
-package leetcode.day007;
+package arrays_string;
 
 public class StringCompression {
     public static void main(String[] args) {
